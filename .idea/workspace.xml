@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8c3ab16f-e5de-4758-a001-9b82e1590f60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/markdown-cv" />
     </key>
   </component>
@@ -64,7 +66,7 @@
       <workItem from="1698034502943" duration="5146000" />
       <workItem from="1698044891237" duration="139000" />
       <workItem from="1698045037580" duration="3617000" />
-      <workItem from="1698053378404" duration="551000" />
+      <workItem from="1698053378404" duration="5638000" />
     </task>
     <servers />
   </component>
