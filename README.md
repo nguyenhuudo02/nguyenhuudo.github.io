@@ -1,4 +1,4 @@
-# markdown-cv
+# Markdown-cv
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
@@ -11,15 +11,9 @@ on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-sw
 
 Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
 
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
-
 and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
 
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
-
 adding your skills, jobs and education.
-
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
 ## Distribution
 
@@ -48,23 +42,25 @@ immediately rendered by Github Pages.
 The included CSS will render your CV in two styles:
 s
 
-1. `kjhealy` the original default, inspired by [kjhealy's vita
-   template](https://github.com/kjhealy/kjh-vita).
-2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates
-   right aligned.
+1. `kjhealy` the original default, inspired by [kjhealy's vita template](https://github.com/kjhealy/kjh-vita).
+2. `davewhipp` is a tweaked version of `kjhealy`, with bigger fonts and dates right aligned.
 
-To change the default style, simply change the variable in the
-`_config.yml` file.
+To change the default style, simply change the variable in the `_config.yml` file.
 
 Any other styling is possible. More CSS style contributions and forks are welcome!
 
 ### Author
 
-Eliseo
-Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
+Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
 
 ![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
 
 ### License
 
 [MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+
+---
+| Layout      | Title                                                      |
+|-------------|------------------------------------------------------------|
+| cv            | Trình bày cơ bản cách trang trí văn bảng bằng Markdown.    |
+| Phía sau website | Câu chuyện về mọi thứ phía sau website để cho nó hoạt động. |
